@@ -1,0 +1,13 @@
+
+.env
+.env.*
+!.env.example
+Frontend/node_modules/
+frontend/node_modules/
+Frontend/dist/
+frontend/dist/
+ml/.venv/
+ml/venv/
+ml/__pycache__/
+__pycache__/
+*.pyc
